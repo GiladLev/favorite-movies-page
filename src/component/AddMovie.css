@@ -1,0 +1,8 @@
+.addNewMovieWindow.close {
+  display: none;
+}
+.addNewMovieWindow.open {
+  display: block;
+}
+
+

@@ -1,0 +1,16 @@
+.imgOfMovie{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.img-container{
+    width: 5%;
+    height: 90%;
+
+}
+.head-container{
+    height: 6vh;
+}
+.row-container{
+    height: 15vh;
+}
