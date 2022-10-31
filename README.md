@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# MiddleProject - Client side project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+During the bootcamp course after learning the client side I collaborated in the project to provide a service to a company that organizes events in nature, you can see examples and opinions, order an event.
 
-## Available Scripts
+link to a website - https://hava-ve-adam.netlify.app/
 
+## Table Of Contents <a name="Table"></a>
+- [Table Of Contents](#Table)
+- [Why it made and why you should use it](#why)
+- [How to run](#run)
+- [Screenshots](#Screenshots)
+- [Technologies](#Technologies)
+- [What next](#next)
+
+
+## Why it made and why you should use it <a name="why"></a>
+1. To serve a company that organizes events in nature
+2. To provide samples and opinions
+3. It easy to use
+
+
+## Running the project <a name="run"></a>
 In the project directory, you can run:
 
-### `npm start`
+1.Clone the repo.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2.Run `npm install`.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3.run `npm start`
 
-### `npm test`
+4.Navigate to `http://localhost:3000`.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Screenshots <a name="Screenshots"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![alt text](https://res.cloudinary.com/dptzubs72/image/upload/v1666187338/2022-09-15_3_r8mqir.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+Reviews
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![alt text](https://res.cloudinary.com/dptzubs72/image/upload/v1666187338/2022-10-19_12_wieqwr.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+photos
 
-## Learn More
+![alt text](https://res.cloudinary.com/dptzubs72/image/upload/v1666187338/2022-10-19_14_yy2aey.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+plece event
+![alt text](https://res.cloudinary.com/dptzubs72/image/upload/v1666187337/2022-10-19_13_k4gum7.png)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Calendar
+![alt text](https://res.cloudinary.com/dptzubs72/image/upload/v1666187336/2022-10-19_15_caowty.png)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Technologies <a name="Technologies"></a>
+   Client:
+   
+   -ReactJs
+   
+   -Yup
+   
+   -Formik
+   
+   -Redux
+   
+   -MUI
+   
+   
+## What next <a name="next"></a>
 
-### Making a Progressive Web App
+-Creating a server and connecting to the client
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+-Creating an administrator and client login
 
-### Advanced Configuration
+-Connecting the calendar with Google calendar.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-Creating a guest list and sending a reminder before the event.
