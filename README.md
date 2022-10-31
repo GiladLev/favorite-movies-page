@@ -33,49 +33,27 @@ In the project directory, you can run:
 
 ## Screenshots <a name="Screenshots"></a>
 
-![alt text](https://res.cloudinary.com/dptzubs72/image/upload/v1666187338/2022-09-15_3_r8mqir.png)
 
 
-
-Reviews
-
-
-![alt text](https://res.cloudinary.com/dptzubs72/image/upload/v1666187338/2022-10-19_12_wieqwr.png)
+Add video to favorite list
 
 
-photos
-
-![alt text](https://res.cloudinary.com/dptzubs72/image/upload/v1666187338/2022-10-19_14_yy2aey.png)
+![alt text](https://res.cloudinary.com/dxexnhjmi/image/upload/v1667233087/favorite-movie-1_k3babx.jpg)
 
 
-plece event
-![alt text](https://res.cloudinary.com/dptzubs72/image/upload/v1666187337/2022-10-19_13_k4gum7.png)
+Show trailer
+![alt text](https://res.cloudinary.com/dxexnhjmi/image/upload/v1667233087/favorite-movie-1_k3babx.jpg)
 
-
-Calendar
-![alt text](https://res.cloudinary.com/dptzubs72/image/upload/v1666187336/2022-10-19_15_caowty.png)
 
 
 ## Technologies <a name="Technologies"></a>
-   Client:
    
-   -ReactJs
+   -React
    
-   -Yup
-   
-   -Formik
-   
-   -Redux
-   
-   -MUI
+   -Bootstrap
    
    
 ## What next <a name="next"></a>
 
--Creating a server and connecting to the client
+Creating a site similar to Netflix that allows you to project and broadcast information
 
--Creating an administrator and client login
-
--Connecting the calendar with Google calendar.
-
--Creating a guest list and sending a reminder before the event.
