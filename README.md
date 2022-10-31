@@ -1,8 +1,6 @@
-# MiddleProject - Client side project
+# Favorite movies list
 
-During the bootcamp course after learning the client side I collaborated in the project to provide a service to a company that organizes events in nature, you can see examples and opinions, order an event.
-
-link to a website - https://hava-ve-adam.netlify.app/
+link to a website - https://myfavoritmovie-app.netlify.app/
 
 ## Table Of Contents <a name="Table"></a>
 - [Table Of Contents](#Table)
@@ -14,9 +12,8 @@ link to a website - https://hava-ve-adam.netlify.app/
 
 
 ## Why it made and why you should use it <a name="why"></a>
-1. To serve a company that organizes events in nature
-2. To provide samples and opinions
-3. It easy to use
+One of the problems is sharing among friends good movies to watch. 
+Through this website you can share recommended movies to watch and trailers without getting into trouble and all in one place.
 
 
 ## Running the project <a name="run"></a>
@@ -42,7 +39,7 @@ Add video to favorite list
 
 
 Show trailer
-![alt text](https://res.cloudinary.com/dxexnhjmi/image/upload/v1667233087/favorite-movie-1_k3babx.jpg)
+![alt text](https://res.cloudinary.com/dxexnhjmi/image/upload/v1667232945/favorite-movie-trailer_ozc6vz.jpg)
 
 
 
@@ -55,5 +52,5 @@ Show trailer
    
 ## What next <a name="next"></a>
 
-Creating a site similar to Netflix that allows you to project and broadcast information
+Creating a site similar to Netflix that allows you to project and broadcast.
 
